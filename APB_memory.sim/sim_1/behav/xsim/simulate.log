@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+writong data into memory data =303379748, address =1
+reading data from memory data =x, address =35
+writong data into memory data =2223298057, address =35
+reading data from memory data =x, address =13
+writong data into memory data =112818957, address =13
+reading data from memory data =112818957, address =13
+$finish called at time : 360 ns : File "C:/Users/Saran/Desktop/VIVA/APB_memory/APB_memory.srcs/sim_1/new/tb.v" Line 99
